@@ -9,4 +9,4 @@
 
 ### To test the LSTM on Rhode Island Data run the files in the following order
 6. CleaningUnseenData.ipynb
-7. TestingOnUnseenData.ipnb
+7. TestingOnUnseenData.ipynb
